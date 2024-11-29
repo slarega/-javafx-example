@@ -1,0 +1,24 @@
+.nav {
+    -fx-background-color: linear-gradient(to bottom right, #ad8bf3, #ea9b7c);
+}
+
+.nav-header {
+    -fx-background-color: linear-gradient(to bottom right, #ad8bf3, #ea9b7c);
+    -fx-border-width: 0 0 .8px 0;
+    -fx-text-fill: #000000;
+}
+
+.nav-btn{
+    /*-fx-background-color: transparent;*/
+    /*-fx-border-color: #ea1616;*/
+    /*-fx-border-width: .4px;*/
+    /*-fx-cursor: hand;*/
+    /*-fx-text-fill: #111111;*/
+    -fx-font-size: 15px;
+}
+
+.nav-btn:hover{
+    -fx-background-color: #fff;
+    -fx-text-fill: #000;
+}
+
